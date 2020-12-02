@@ -9,7 +9,7 @@ You should install `jq` firstly.
 In CentOS, you can install `jq` with this command.
 
 ```
-sudo yun install jq
+sudo yum install jq
 ```
 
 ## Usage
